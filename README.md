@@ -1,9 +1,9 @@
 
 ## Olá, tudo bem? 😄
 
-👩‍💻 Trabalho atualmente em outra area na cidade de Caieiras
+👩‍💻 Sou Motorista profissional a mais de 8 anos
 
-🧠 Iniciei o curso online de: Analise e Desenvolvimento de Sistemas, pela Cruzeiro do Sul. 
+🧠 Cursando: ADS, pela Cruzeiro do Sul. 
 
 🤔 Procuro ajuda com Dicas para estudos
 
