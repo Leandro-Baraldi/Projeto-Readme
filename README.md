@@ -7,7 +7,5 @@
 
 🤔 Procuro ajuda com Dicas para estudos
 
-<!-- Links -->
-<a href="https://www.linkedin.com/in/leandro-baraldi-897476378" target="_blank">Linkedin</a>
-
-
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=purple">](https://www.linkedin.com/in/leandro-baraldi)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=purple">](https://www.instagram.com/leandro__baraldi)
