@@ -1,16 +1,41 @@
+# 👋 Olá, eu sou o Leandro!
 
-## Olá, tudo bem? 😄
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🔐 **Em transição de carreira para Cybersegurança**  
+🚖 **Motorista profissional de transporte de passageiros (6+ anos de experiência)**  
+
+---
+
+## 🌟 Sobre mim
+Sou apaixonado por tecnologia e atualmente estou direcionando meus estudos para a área de **cybersegurança**.  
+Tenho experiência sólida como motorista profissional, onde desenvolvi **responsabilidade, disciplina, empatia e tomada de decisão rápida** — competências que também aplico no meu aprendizado em TI.  
+
+Meu objetivo é atuar com segurança da informação, contribuindo para proteger sistemas, redes e dados contra ameaças digitais, sempre com ética e foco em soluções inovadoras.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Em aprendizado:** Segurança da Informação, Redes de Computadores, Linux  
+- **Ferramentas:** Git & GitHub, Wireshark, Nmap (iniciante)  
+- **Programação:** Python (básico), Lógica de Programação  
+- **Outros:** Pacote Office / Google Workspace  
 
 
-🚀 Iniciando minha jornada em Tecnologia! Em 2025, comecei o curso de ADS na Cruzeiro do Sul, com o sonho de trabalhar com programação. Já estou aprendendo lógica de programação, algoritmos e dei meus primeiros passos com HTML 5, CSS E JavaScript. Criei meu primeiro projeto: um sistema simples de tarefas, que publiquei no GitHub! Estou animado para continuar aprendendo e, em breve, buscar minha primeira oportunidade profissional. 👇 Se você é da área ou já trilhou esse caminho, adoraria conectar e aprender com você!
+---
 
-👩‍💻 Sou Motorista profissional a mais de 8 anos
+## 📈 O que estou aprendendo
+- Fundamentos de Segurança da Informação  
+- Redes (TCP/IP, DNS, protocolos)  
+- Linux para Cybersegurança  
+- Automação com Python  
 
-🧠 Cursando: <mark> Analise e Desenvolvimento de Sistemas, pela Cruzeiro do Sul.</mark>
- 
-🤔 Procuro ajuda com Dicas para estudos
+---
 
- <a href="https://www.linkedin.com/in/leandro-baraldi" target="_blank">Linkedin</a> 😁
- <a href="https://https://www.instagram.com/leandro__baraldi" target="_blank">Instagram</a> 😁
+## 🤝 Vamos nos conectar
+📌 <a href="https://www.linkedin.com/in/leandro-baraldi" target="_blank">Linkedin</a> 😁
+
+---
+
+⭐ Obrigado por visitar meu perfil! Sempre aberto a oportunidades de aprendizado e colaboração.  
 
 
