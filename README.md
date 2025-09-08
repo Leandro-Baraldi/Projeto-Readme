@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Leandro!
+ 👋 Olá, eu sou o Leandro!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🔐 **Em transição de carreira para Cybersegurança**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Sobre mim
+ 🌟 Sobre mim
 Sou apaixonado por tecnologia e atualmente estou direcionando meus estudos para a área de **cybersegurança**.  
 Tenho experiência sólida como motorista profissional, onde desenvolvi **responsabilidade, disciplina, empatia e tomada de decisão rápida** — competências que também aplico no meu aprendizado em TI.  
 
@@ -14,7 +14,7 @@ Meu objetivo é atuar com segurança da informação, contribuindo para proteger
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+ 🛠️ Tecnologias & Ferramentas
 - **Em aprendizado:** Segurança da Informação, Redes de Computadores, Linux  
 - **Ferramentas:** Git & GitHub, Wireshark, Nmap (iniciante)  
 - **Programação:** Python (básico), Lógica de Programação  
@@ -48,7 +48,7 @@ Props: passagem de dados e funções entre componentes ("pai para filho");
 Renderização Condicional: lógica para exibir diferentes partes da interface com base no estado da aplicação.
 ---
 
-## 📈 O que estou aprendendo
+ 📈 O que estou aprendendo
 - Fundamentos de Segurança da Informação  
 - Redes (TCP/IP, DNS, protocolos)  
 - Linux para Cybersegurança  
@@ -56,7 +56,7 @@ Renderização Condicional: lógica para exibir diferentes partes da interface c
 
 ---
 
-## 🤝 Vamos nos conectar
+ 🤝 Vamos nos conectar
 📌 <a href="https://www.linkedin.com/in/leandro-baraldi" target="_blank">Linkedin</a> 😁
 
 ---
